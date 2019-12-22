@@ -10,4 +10,5 @@ A person named Aldaz skidded this crash exploit from trial and is now claiming c
 
 # How to use #
 You can put this in a folder and use nodejs to run it using 'node code.js' <br />
-Or you can put the code from code.js into your console on discord (CTRL SHIFT I TO OPEN)
+Or you can put the code from code.js into your console on discord (CTRL SHIFT I TO OPEN) <br />
+Don't forget to replace 'insertyourusertokenhere' with your own user token and the groupID with an actual group chat id before running.
