@@ -7,3 +7,7 @@ Kate - making the code in JS<br />
 
 # Caution #
 A person named Aldaz skidded this crash exploit from trial and is now claiming clout for it, skids don't deserve clout. He's also trying to get it patched, so now it's a race to get it patched first because of him.
+
+# How to use #
+You can put this in a folder and use nodejs to run it using 'node code.js' <br />
+Or you can put the code from code.js into your console on discord (CTRL SHIFT I TO OPEN)
